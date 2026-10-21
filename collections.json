@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "ieum.collections.v1",
+  "maxPages": 60,
+  "commonFields": [
+    "brand",
+    "footer",
+    "color",
+    "accent",
+    "topic",
+    "find",
+    "replace"
+  ],
+  "exportFormats": [
+    "png-zip",
+    "html",
+    "json",
+    "image-prompts-json"
+  ],
+  "collections": [
+    {
+      "id": "english-carousel",
+      "name": "영어논술 캐러셀 9장",
+      "templateIds": [
+        "pathways-1",
+        "pathways-2",
+        "pathways-3",
+        "pathways-4",
+        "pathways-5",
+        "pathways-6",
+        "pathways-7",
+        "pathways-8",
+        "pathways-9"
+      ]
+    }
+  ]
+}
